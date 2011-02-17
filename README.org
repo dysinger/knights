@@ -1,0 +1,14 @@
+#+TITLE:Knights Open Tour Problem in Clojure
+#+AUTHOR:Tim Dysinger
+#+EMAIL:tim@dysinger.net
+
+* Install [[https://github.com/technomancy/leiningen][Leiningen]]
+
+* Build
+  - lein deps
+  - lein compile
+  - lein uberjar
+
+* Run
+  - java -jar knights-1.0.0-SNAPSHOT-standalone.jar
+
